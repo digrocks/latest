@@ -1,0 +1,97 @@
+	MinecraftForge v14.23.5.2768 Initialized
+00:27:05	FML	Starts to replace vanilla recipe ingredients with ore ingredients.
+00:27:05	FML	Replaced 1036 ore ingredients
+00:27:06	FML	Enabling removal of erroring Entities - USE AT YOUR OWN RISK
+00:27:06	FML	Enabling removal of erroring Tile Entities - USE AT YOUR OWN RISK
+00:27:06	STDOUT	[zmaster587.advancedRocketry.asm.ModContainer:<init>:23]: ********* CoreDummyContainer. OK
+00:27:06	FML	Searching C:\Users\Owner\Documents\Curse\Minecraft\Instances\All the Mods 3\mods for mods
+00:27:06	FML	Searching C:\Users\Owner\Documents\Curse\Minecraft\Instances\All the Mods 3\mods\1.12.2 for mods
+00:27:07	FML	Mod aroma1997core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.0.b161
+00:27:07	FML	Mod aroma1997sdimension is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.2.b86
+00:27:07	FML	Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.11.1
+00:27:07	FML	Mod careerbees is missing the required element 'name'. Substituting careerbees
+00:27:08	FML	Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.2.353
+00:27:08	FML	Mod compactsolars is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-5.0.17.340
+00:27:08	FML	Using sync timing. 200 frames of Display.update took 97289176 nanos
+00:27:08	FML	Unable to parse dependency for mod 'computronics' with dependency string 'before:OpenPeripheralCore@[1.1,)'. The modId 'OpenPeripheralCore' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'computronics' with dependency string 'before:OpenPeripheralApi@[3.2,)'. The modId 'OpenPeripheralApi' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'computronics' with dependency string 'after:MineFactoryReloaded'. The modId 'MineFactoryReloaded' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'computronics' with dependency string 'after:RedLogic@[59.1.9,)'. The modId 'RedLogic' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'computronics' with dependency string 'after:ProjRed|Core'. The modId 'ProjRed|Core' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'computronics' with dependency string 'after:BuildCraft|Core@[7.2.0,)'. The modId 'BuildCraft|Core' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'computronics' with dependency string 'after:EnderIO@[1.10.2-3.0.1,)'. The modId 'EnderIO' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'computronics' with dependency string 'after:MekanismAPI|energy@[8.0.0,)'. The modId 'MekanismAPI|energy' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'computronics' with dependency string 'after:Flamingo@[1.7.10-1.3,)'. The modId 'Flamingo' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'computronics' with dependency string 'after:armourersWorkshop@[1.7.10-0.33,)'. The modId 'armourersWorkshop' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'asielib' with dependency string 'after:CoFHAPI|block@[1.7.10R1.0.0,)'. The modId 'CoFHAPI|block' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'asielib' with dependency string 'after:CoFHAPI|energy@[1.7.10R1.0.0,)'. The modId 'CoFHAPI|energy' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'asielib' with dependency string 'after:CoFHAPI|tileentity@[1.7.10R1.0.0,)'. The modId 'CoFHAPI|tileentity' must be all lowercase.
+00:27:08	FML	Unable to parse dependency for mod 'asielib' with dependency string 'after:CoFHAPI|item@[1.7.10R1.0.0,)'. The modId 'CoFHAPI|item' must be all lowercase.
+00:27:08	FML	Mod cookingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.4.65
+00:27:08	FML	Mod cosmeticarmorreworked is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-v3
+00:27:08	FML	Mod cosmeticarmorreworked|tombmanygraves is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-v3
+00:27:08	FML	Mod craftingtweaks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 8.1.9
+00:27:08	FML	Mod cyclicmagic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.17.4
+00:27:09	FML	Mod defaultoptions is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 9.2.8
+00:27:09	FML	Mod enderstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.5.135
+00:27:10	FML	Mod microblockcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.0.79
+00:27:10	FML	Mod forgemultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.0.79
+00:27:10	FML	Mod minecraftmultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.0.79
+00:27:10	FML	Mod helpfixer is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.1-1.5.18
+00:27:10	FML	Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.52.837
+00:27:11	FML	Mod kleeslabs is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 5.4.11
+00:27:11	FML	Mod magicbees is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+00:27:12	FML	Mod mrtjpcore is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.1.3.35
+00:27:12	FML	Mod nmsot is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.2-mc1.12.2
+00:27:13	FML	The mcmod.info file in practicallogistics2-1.12.2-3.0.4.jar cannot be parsed as valid JSON. It will be ignored
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected name at line 12 column 2 path $[0].logoFile
+	at com.google.gson.internal.Streams.parse(Streams.java:60)
+	at com.google.gson.JsonParser.parse(JsonParser.java:84)
+	at com.google.gson.JsonParser.parse(JsonParser.java:59)
+	at net.minecraftforge.fml.common.MetadataCollection.from(MetadataCollection.java:63)
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:65)
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47)
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74)
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93)
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:425)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:566)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:466)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 12 column 2 path $[0].logoFile
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:505)
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414)
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:738)
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:731)
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714)
+	at com.google.gson.internal.Streams.parse(Streams.java:48)
+	... 19 more
+00:27:13	FML	Mod projectred-core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.1.92
+00:27:13	FML	Mod projectred-compat is missing the required element 'name'. Substituting projectred-compat
+00:27:13	FML	Mod projectred-compat is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+00:27:13	FML	Mod projectred-fabrication is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.1.92
+00:27:13	FML	Mod projectred-integration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.1.92
+00:27:13	FML	Mod projectred-transmission is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.1.92
+00:27:13	FML	Mod projectred-illumination is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.1.92
+00:27:13	FML	Mod projectred-expansion is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.1.92
+00:27:13	FML	Mod projectred-relocation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.1.92
+00:27:13	FML	Mod projectred-transportation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.1.92
+00:27:13	FML	Mod projectred-exploration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.1.92
+00:27:14	FML	Mod tcinventoryscan is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.10
+00:27:14	FML	Mod usefulnullifiers is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.5.0
+00:27:14	FML	Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.0.67
+00:27:14	FML	Mod wirelesscharger is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.0.6
+00:27:14	FML	Forge Mod Loader has identified 292 mods to load
+00:27:14	FML	Found mod(s) [pneumaticcraft] containing declared API package team.chisel.ctm.api (owned by ctm) without associated API reference
+00:27:14	STDOUT	[zmaster587.advancedRocketry.asm.ModContainer:registerBus:42]: ********* registerBus. OK
+00:27:15	FML	FML has found a non-mod file AutoSave-1.12.2-1.0.8.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+00:28:45	launcher	
+19:28:45	monitor	Process crashed with exit code -805306369
